@@ -1,0 +1,18 @@
+{
+  "gods": [
+    {
+      "id": 1,
+      "name": "Anubis",
+      "role": "God of the Dead & Mummification",
+      "description": "Anubis was the protector of graves and guided souls to the afterlife. He was often depicted as a man with the head of a black jackal.",
+      "symbol": "Weighing the heart against the feather of truth."
+    },
+    {
+      "id": 2,
+      "name": "Horus",
+      "role": "God of Kingship & the Sky",
+      "description": "Horus was the falcon-headed sky god and protector of the pharaohs. The Eye of Horus symbolized protection, healing, and royal power.",
+      "symbol": "The Eye of Horus."
+    }
+  ]
+}
