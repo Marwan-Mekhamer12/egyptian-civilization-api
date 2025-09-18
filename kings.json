@@ -1,0 +1,18 @@
+{
+  "pharaohs": [
+    {
+      "id": 1,
+      "name": "Tutankhamun",
+      "years": "1332–1323 BC",
+      "description": "Known as the boy king, famous for his nearly intact tomb discovered in 1922.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Tutmask.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ramses II",
+      "years": "1279–1213 BC",
+      "description": "One of the most powerful and celebrated pharaohs, led many military expeditions.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Ramesses_II_Egypt.jpg"
+    }
+  ]
+}
