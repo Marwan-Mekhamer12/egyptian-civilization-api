@@ -5,10 +5,7 @@
       "name": "Tutankhamun",
       "birthName": "Tutankhaten",
       "dynasty": "18th Dynasty, New Kingdom Egypt",
-      "reign": {
-        "start": -1332,
-        "end": -1323
-      },
+      "year": "-1332 BC : -1323 BC"
       "description": "Known as the boy king, famous for his nearly intact tomb discovered in 1922",
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/King%20Tutankhamun.jpg",
       "family": {
@@ -55,10 +52,7 @@
       "name": "Ramses II",
       "birthName": "Ra-messu Meryamun",
       "dynasty": "19th Dynasty, New Kingdom Egypt",
-      "reign": {
-        "start": -1279,
-        "end": -1213
-      },
+      "year": "-1279 BC : -1213 BC",
       "description": "Ramses II, also called Ramses the Great, was one of the most powerful and celebrated pharaohs of ancient Egypt. He expanded Egypt’s empire, signed the world’s first known peace treaty, and left behind monumental constructions.",
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/King%20Ramses%20II.jpg",
       "family": {
@@ -104,10 +98,7 @@
       "name": "Seti I",
       "birthName": "Menmaatre Seti",
       "dynasty": "19th Dynasty, New Kingdom Egypt",
-      "reign": {
-        "start": -1290,
-        "end": -1279
-      },
+      "year": "-1290 BC : -1279 BC",
       "description": "Seti I was the father of Ramses II and one of the most important warrior pharaohs of the New Kingdom. He reestablished Egyptian authority abroad and began the monumental works later completed by his son.",
       "image": "https://raw.githubusercontent.com/Marwan-Mekhamer12/egyptian-civilization-api/main/images/Seti%20I.jpg",
       "family": {
