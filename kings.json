@@ -169,7 +169,7 @@
   {
     "id": 4,
     "name": "Temple of Hatshepsut (Deir el-Bahari)",
-    "image": "",
+    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20hatshipsut.jpg",
     "time_build": "1479 BC – 1458 BC",
     "builder_king": "Queen Hatshepsut",
     "build_duration": "15 years",
