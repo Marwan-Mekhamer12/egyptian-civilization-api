@@ -34,7 +34,7 @@
           "Chariot accident leading to infection",
           "Murder/foul play (debated)"
         ],
-        "ageAtDeath": 18
+        "ageAtDeath": "18"
       },
       "storyLegend": {
         "discovery": "Tomb KV62 found nearly intact in 1922 by Howard Carter.",
@@ -80,7 +80,7 @@
         "deathTheories": [
           "Natural causes, likely heart failure or old age complications"
         ],
-        "ageAtDeath": 90
+        "ageAtDeath": "90"
       },
       "storyLegend": {
         "fame": "Remembered by later Egyptians as a model of kingship; possibly inspired the figure of Pharaoh in the Biblical Exodus story.",
@@ -124,7 +124,7 @@
         "deathTheories": [
           "Natural causes, possibly sudden illness"
         ],
-        "ageAtDeath": 40
+        "ageAtDeath": "40"
       },
       "storyLegend": {
         "fame": "Respected as one of Egypt’s greatest warrior-kings before Ramses II.",
