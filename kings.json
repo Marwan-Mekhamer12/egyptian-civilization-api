@@ -3,16 +3,125 @@
     {
       "id": 1,
       "name": "Tutankhamun",
-      "years": "1332–1323 BC",
-      "description": "Known as the boy king, famous for his nearly intact tomb discovered in 1922.",
-      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/King%20Tutankhamun.jpg"
+      "birthName": "Tutankhaten",
+      "dynasty": "18th Dynasty, New Kingdom Egypt",
+      "reign": {
+        "start": -1332,
+        "end": -1323
+      },
+      "description": "Known as the boy king, famous for his nearly intact tomb discovered in 1922",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/King%20Tutankhamun.jpg",
+      
+      "family": {
+        "parents": "Father most likely Akhenaten; mother 'Younger Lady', full sister of Akhenaten (grandparents Amenhotep III and Tiye).",
+        "spouse": "Ankhesenamun (daughter of Akhenaten and Nefertiti).",
+        "children": "Two stillborn daughters (317a and 317b) found in his tomb; no surviving children."
+      },
+      
+      "biography": {
+        "earlyLife": "Born around 1341 BCE during the Amarna Period.",
+        "ascension": "Became pharaoh at about 9 years old. Advisers Ay and Horemheb held major power.",
+        "religionPolitics": "Restored worship of Amun and traditional gods, abandoned Amarna capital, re-established old priesthoods.",
+        "buildingProjects": "Small-scale restorations in temples such as Luxor; reign too short for major works."
+      },
+      
+      "military": {
+        "actions": "Evidence of campaigns in Nubia and Near East; mostly minor or defensive.",
+        "personalInvolvement": "Unclear due to youth and health problems."
+      },
+      
+      "healthAndDeath": {
+        "healthIssues": [
+          "Clubfoot limiting mobility",
+          "Other skeletal/genetic issues",
+          "Malaria infections"
+        ],
+        "deathTheories": [
+          "Complications from malaria and frailty",
+          "Chariot accident leading to infection",
+          "Murder/foul play (debated)"
+        ],
+        "ageAtDeath": 18
+      },
+      
+      "storyLegend": {
+        "discovery": "Tomb KV62 found nearly intact in 1922 by Howard Carter.",
+        "curseMyth": "Rumors of 'pharaoh's curse' after Lord Carnarvon’s death, but not supported by evidence.",
+        "legacy": "His golden mask became a global icon; exhibitions spread fascination worldwide."
+      },
+      
+      "burial": {
+        "tomb": "KV62 in the Valley of the Kings",
+        "notes": "Small and hastily prepared; some objects repurposed.",
+        "burialGoods": "Thousands of items including golden mask, coffins, jewelry, chariots, furniture."
+      }
     },
     {
       "id": 2,
       "name": "Ramses II",
-      "years": "1279–1213 BC",
+      "dynasty": "19th Dynasty, New Kingdom Egypt",
+      "reign": {
+        "start": -1279,
+        "end": -1213
+      },
       "description": "One of the most powerful and celebrated pharaohs, led many military expeditions.",
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/King%20Ramses%20II.jpg"
-    }
+    },
+    {
+  "id": 2,
+  "name": "Ramses II",
+  "birthName": "Ra-messu Meryamun",
+  "dynasty": "19th Dynasty, New Kingdom Egypt",
+  "reign": {
+    "start": -1279,
+    "end": -1213
+  },
+  "description": "Ramses II, also called Ramses the Great, was one of the most powerful and celebrated pharaohs of ancient Egypt. He expanded Egypt’s empire, signed the world’s first known peace treaty, and left behind monumental constructions.",
+  "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/King%20Ramses%20II.jpg",
+
+  "family": {
+    "parents": "Father: Seti I; Mother: Queen Tuya.",
+    "spouse": "Numerous wives, most famous: Nefertari (Great Royal Wife), Isetnofret, Maathorneferure (a Hittite princess).",
+    "children": "Over 100 children; notable sons: Amun-her-khepeshef, Khaemweset (famous for restoring monuments), and Merneptah (his successor)."
+  },
+
+  "biography": {
+    "earlyLife": "Born c. 1303 BCE, prepared from youth to succeed his father Seti I. Received military training and accompanied campaigns as a prince.",
+    "ascension": "Became pharaoh around age 25, ruling for 66 years — one of the longest reigns in Egyptian history.",
+    "religionPolitics": "Promoted the cult of Ra and Amun, portrayed himself as divine. Reinforced Egypt’s wealth through diplomacy and military campaigns.",
+    "buildingProjects": "Constructed massive temples, cities, and monuments: Abu Simbel, Ramesseum, Pi-Ramesses (new capital). His cartouches appear throughout Egypt."
+  },
+
+  "military": {
+    "actions": "Led campaigns into Canaan, Syria, and Nubia. Defended Egypt against the Hittites at the Battle of Kadesh (c. 1274 BCE).",
+    "personalInvolvement": "Portrayed as heroic warrior; inscriptions depict him single-handedly turning the tide at Kadesh, though this is propagandistic.",
+    "legacy": "Signed the first known international peace treaty with the Hittites after decades of conflict."
+  },
+
+  "healthAndDeath": {
+    "healthIssues": [
+      "Arthritis in old age",
+      "Dental problems",
+      "Possible hardening of arteries (arteriosclerosis)"
+    ],
+    "deathTheories": [
+      "Natural causes, likely heart failure or old age complications"
+    ],
+    "ageAtDeath": 90
+  },
+
+  "storyLegend": {
+    "fame": "Remembered by later Egyptians as a model of kingship; possibly inspired the figure of Pharaoh in the Biblical Exodus story.",
+    "discovery": "Mummy discovered in 1881 at Deir el-Bahari cache (TT320).",
+    "legacy": "Nicknamed 'Ramses the Great'; his monuments still dominate the Egyptian landscape."
+  },
+
+  "burial": {
+    "tomb": "KV7 in the Valley of the Kings (heavily damaged by floods).",
+    "notes": "His mummy was moved to the royal cache at Deir el-Bahari for protection.",
+    "burialGoods": "Most original treasures lost to tomb robbers; some fragments remain."
+  }
+}
+
   ]
 }
