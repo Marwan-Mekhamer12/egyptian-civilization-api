@@ -196,7 +196,7 @@
   {
     "id": 7,
     "name": "Temple of Philae",
-    "image": "",
+    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Philae%20Temple%20in%20Egypt.jpg",
     "time_build": "Started around 380 BC, continued into Roman period",
     "builder_king": "Nectanebo I and later Ptolemaic rulers",
     "build_duration": "300 years",
