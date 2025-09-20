@@ -151,7 +151,7 @@
   {
     "id": 2,
     "name": "Luxor Temple",
-    "image": "",
+    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20Luxor.jpg",
     "time_build": "Around 1400 BC",
     "builder_king": "Amenhotep III, completed by Tutankhamun and Ramses II",
     "build_duration": "Over 100 years",
