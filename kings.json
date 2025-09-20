@@ -187,7 +187,7 @@
   {
     "id": 6,
     "name": "Temple of Kom Ombo",
-    "image": "",
+    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20Kom%20ombo.jpg",
     "time_build": "180 BC – 47 BC",
     "builder_king": "Ptolemy VI and later rulers",
     "build_duration": "130 years",
