@@ -142,7 +142,7 @@
     {
     "id": 1,
     "name": "Karnak Temple",
-    "image": "",
+    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Karnak%20Temple.jpg",
     "time_build": "Started around 2055 BC, expanded until 100 AD",
     "builder_king": "Senusret I (12th Dynasty), expanded by many Pharaohs",
     "build_duration": "About 2,000 years (continuous construction)",
