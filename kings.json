@@ -178,7 +178,7 @@
   {
     "id": 5,
     "name": "Temple of Edfu",
-    "image": "",
+    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20edfo.jpg",
     "time_build": "237 BC – 57 BC (Ptolemaic period)",
     "builder_king": "Ptolemy III to Ptolemy XII",
     "build_duration": "180 years",
