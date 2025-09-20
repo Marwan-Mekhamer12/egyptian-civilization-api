@@ -205,7 +205,7 @@
   {
     "id": 8,
     "name": "Temple of Seti I (Abydos)",
-    "image": "",
+    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20seti%20I.jpg",
     "time_build": "1290 BC – 1279 BC",
     "builder_king": "Seti I, completed by Ramses II",
     "build_duration": "11 years",
