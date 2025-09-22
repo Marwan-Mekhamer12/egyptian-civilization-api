@@ -161,55 +161,55 @@
     "id": 3,
     "name": "Abu Simbel Temples",
     "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20Abu%20Simble.jpg",
-    "time_build": "1264 BC – 1244 BC",
-    "builder_king": "Ramses II",
-    "build_duration": "About 20 years",
-    "main_god": "Ra-Horakhty, Amun, Ptah (and deified Ramses II)"
+    "timebuild": "1264 BC – 1244 BC",
+    "builderking": "Ramses II",
+    "buildduration": "About 20 years",
+    "maingod": "Ra-Horakhty, Amun, Ptah (and deified Ramses II)"
   },
   {
     "id": 4,
     "name": "Temple of Hatshepsut (Deir el-Bahari)",
     "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20hatshipsut.jpg",
-    "time_build": "1479 BC – 1458 BC",
-    "builder_king": "Queen Hatshepsut",
-    "build_duration": "15 years",
-    "main_god": "Amun-Ra"
+    "timebuild": "1479 BC – 1458 BC",
+    "builderking": "Queen Hatshepsut",
+    "buildduration": "15 years",
+    "maingod": "Amun-Ra"
   },
   {
     "id": 5,
     "name": "Temple of Edfu",
     "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20edfo.jpg",
-    "time_build": "237 BC – 57 BC (Ptolemaic period)",
-    "builder_king": "Ptolemy III to Ptolemy XII",
-    "build_duration": "180 years",
-    "main_god": "Horus"
+    "timebuild": "237 BC – 57 BC (Ptolemaic period)",
+    "builderking": "Ptolemy III to Ptolemy XII",
+    "buildduration": "180 years",
+    "maingod": "Horus"
   },
   {
     "id": 6,
     "name": "Temple of Kom Ombo",
     "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20Kom%20ombo.jpg",
-    "time_build": "180 BC – 47 BC",
-    "builder_king": "Ptolemy VI and later rulers",
-    "build_duration": "130 years",
-    "main_god": "Sobek and Horus"
+    "timebuild": "180 BC – 47 BC",
+    "builderking": "Ptolemy VI and later rulers",
+    "buildduration": "130 years",
+    "maingod": "Sobek and Horus"
   },
   {
     "id": 7,
     "name": "Temple of Philae",
     "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Philae%20Temple%20in%20Egypt.jpg",
-    "time_build": "Started around 380 BC, continued into Roman period",
-    "builder_king": "Nectanebo I and later Ptolemaic rulers",
-    "build_duration": "300 years",
-    "main_god": "Isis"
+    "timebuild": "Started around 380 BC, continued into Roman period",
+    "builderking": "Nectanebo I and later Ptolemaic rulers",
+    "buildduration": "300 years",
+    "maingod": "Isis"
   },
   {
     "id": 8,
     "name": "Temple of Seti I (Abydos)",
     "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20seti%20I.jpg",
-    "time_build": "1290 BC – 1279 BC",
-    "builder_king": "Seti I, completed by Ramses II",
-    "build_duration": "11 years",
-    "main_god": "Osiris"
+    "timebuild": "1290 BC – 1279 BC",
+    "builderking": "Seti I, completed by Ramses II",
+    "buildduration": "11 years",
+    "maingod": "Osiris"
     }
   ],
   {
@@ -218,80 +218,80 @@
       "id": 1,
       "name": "Great Pyramid of Khufu",
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Giza%20Pyramids%20Khufu.jpg",
-      "born_build": "c. 2580–2560 BC, 4th Dynasty",
-      "kings_build": "Pharaoh Khufu",
+      "bornbuild": "c. 2580–2560 BC, 4th Dynasty",
+      "kingsbuild": "Pharaoh Khufu",
       "description": "The largest pyramid in Egypt and the only surviving Wonder of the Ancient World. Built by Pharaoh Khufu, it originally stood at 146.6 meters and represents the peak of Old Kingdom engineering."
     },
     {
       "id": 2,
       "name": "Pyramid of Khafre",
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Pyramid%20of%20Khafre.jpg",
-      "born_build": "c. 2570 BC, 4th Dynasty",
-      "kings_build": "Pharaoh Khafre",
+      "bornbuild": "c. 2570 BC, 4th Dynasty",
+      "kingsbuild": "Pharaoh Khafre",
       "description": "The second largest pyramid at Giza, easily recognized by its limestone casing still visible at the top. It is associated with the Great Sphinx and shows the grandeur of Khufu’s son, Khafre."
     },
     {
       "id": 3,
       "name": "Pyramid of Menkaure",
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Pyramid%20of%20Menkaure.jpg",
-      "born_build": "c. 2510 BC, 4th Dynasty",
-      "kings_build": "Pharaoh Menkaure",
+      "bornbuild": "c. 2510 BC, 4th Dynasty",
+      "kingsbuild": "Pharaoh Menkaure",
       "description": "The smallest of the three main pyramids at Giza, built for Pharaoh Menkaure. Though smaller in size, it was richly decorated and symbolized the continuation of royal tradition."
     },
     {
       "id": 4,
       "name": "Step Pyramid of Djoser",
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Step%20Pyramid%20of%20Djoser.jpg",
-      "born_build": "c. 2670 BC, 3rd Dynasty",
-      "kings_build": "Pharaoh Djoser",
+      "bornbuild": "c. 2670 BC, 3rd Dynasty",
+      "kingsbuild": "Pharaoh Djoser",
       "description": "The world’s first large-scale stone construction and the earliest pyramid in Egypt. Designed by the architect Imhotep, it consists of six stacked mastabas forming a step design."
     },
     {
       "id": 5,
       "name": "Bent Pyramid of Sneferu",
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Bent%20Pyramid%20of%20Sneferu.jpg",
-      "born_build": "c. 2600 BC, 4th Dynasty",
-      "kings_build": "Pharaoh Sneferu",
+      "bornbuild": "c. 2600 BC, 4th Dynasty",
+      "kingsbuild": "Pharaoh Sneferu",
       "description": "Unique for its bent shape, this pyramid shows the transitional phase in pyramid construction. Built for Sneferu, it illustrates the trial-and-error process of creating smooth-sided pyramids."
     },
     {
       "id": 6,
       "name": "Red Pyramid of Sneferu",
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Red%20Pyramid%20of%20Sneferu.jpg",
-      "born_build": "c. 2590 BC, 4th Dynasty",
-      "kings_build": "Pharaoh Sneferu",
+      "bornbuild": "c. 2590 BC, 4th Dynasty",
+      "kingsbuild": "Pharaoh Sneferu",
       "description": "The first successful smooth-sided pyramid in Egypt, known for its reddish limestone. Built by Sneferu at Dahshur, it represents the perfected design later used at Giza."
     },
     {
       "id": 7,
       "name": "Pyramid of Unas",
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Pyramid%20of%20Unas.jpg",
-      "born_build": "c. 2350 BC, 5th Dynasty",
-      "kings_build": "Pharaoh Unas",
+      "bornbuild": "c. 2350 BC, 5th Dynasty",
+      "kingsbuild": "Pharaoh Unas",
       "description": "Though small in size, the Pyramid of Unas is historically important as it contains the first Pyramid Texts — religious inscriptions meant to guide the king in the afterlife."
     },
     {
       "id": 8,
       "name": "Pyramid of Teti",
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Pyramid%20of%20Teti.jpg",
-      "born_build": "c. 2345 BC, 6th Dynasty",
-      "kings_build": "Pharaoh Teti",
+      "bornbuild": "c. 2345 BC, 6th Dynasty",
+      "kingsbuild": "Pharaoh Teti",
       "description": "Built for Teti, the first ruler of the 6th Dynasty, this pyramid continued the tradition of inscribed Pyramid Texts. Although much of it is ruined, the burial chambers remain accessible."
     },
     {
       "id": 9,
       "name": "Pyramid of Userkaf",
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Pyramid%20of%20Userkaf.jpg",
-      "born_build": "c. 2490 BC, 5th Dynasty",
-      "kings_build": "Pharaoh Userkaf",
+      "bornbuild": "c. 2490 BC, 5th Dynasty",
+      "kingsbuild": "Pharaoh Userkaf",
       "description": "Constructed by Userkaf, founder of the 5th Dynasty, this pyramid is located at Saqqara. It reflects the shift in focus from massive pyramid construction to sun temples."
     },
     {
       "id": 10,
       "name": "Pyramid of Amenemhat III (Black Pyramid)",
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Pyramid%20of%20Amenemhat%20III.jpg",
-      "born_build": "c. 1850 BC, 12th Dynasty",
-      "kings_build": "Pharaoh Amenemhat III",
+      "bornbuild": "c. 1850 BC, 12th Dynasty",
+      "kingsbuild": "Pharaoh Amenemhat III",
       "description": "Known as the Black Pyramid due to its dark mudbrick core, it is located at Dahshur. Built by Amenemhat III, one of the greatest kings of the Middle Kingdom, it reflects both ambition and engineering challenges."
     }
   ], 
