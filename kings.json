@@ -211,7 +211,88 @@
     "build_duration": "11 years",
     "main_god": "Osiris"
     }
-  ] 
-    
-  
+  ],
+  {
+  "Pyramids": [
+    {
+      "id": 1,
+      "name": "Great Pyramid of Khufu",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Giza%20Pyramids%20Khufu.jpg",
+      "born_build": "c. 2580–2560 BC, 4th Dynasty",
+      "kings_build": "Pharaoh Khufu",
+      "description": "The largest pyramid in Egypt and the only surviving Wonder of the Ancient World. Built by Pharaoh Khufu, it originally stood at 146.6 meters and represents the peak of Old Kingdom engineering."
+    },
+    {
+      "id": 2,
+      "name": "Pyramid of Khafre",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Pyramid%20of%20Khafre.jpg",
+      "born_build": "c. 2570 BC, 4th Dynasty",
+      "kings_build": "Pharaoh Khafre",
+      "description": "The second largest pyramid at Giza, easily recognized by its limestone casing still visible at the top. It is associated with the Great Sphinx and shows the grandeur of Khufu’s son, Khafre."
+    },
+    {
+      "id": 3,
+      "name": "Pyramid of Menkaure",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Pyramid%20of%20Menkaure.jpg",
+      "born_build": "c. 2510 BC, 4th Dynasty",
+      "kings_build": "Pharaoh Menkaure",
+      "description": "The smallest of the three main pyramids at Giza, built for Pharaoh Menkaure. Though smaller in size, it was richly decorated and symbolized the continuation of royal tradition."
+    },
+    {
+      "id": 4,
+      "name": "Step Pyramid of Djoser",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Step%20Pyramid%20of%20Djoser.jpg",
+      "born_build": "c. 2670 BC, 3rd Dynasty",
+      "kings_build": "Pharaoh Djoser",
+      "description": "The world’s first large-scale stone construction and the earliest pyramid in Egypt. Designed by the architect Imhotep, it consists of six stacked mastabas forming a step design."
+    },
+    {
+      "id": 5,
+      "name": "Bent Pyramid of Sneferu",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Bent%20Pyramid%20of%20Sneferu.jpg",
+      "born_build": "c. 2600 BC, 4th Dynasty",
+      "kings_build": "Pharaoh Sneferu",
+      "description": "Unique for its bent shape, this pyramid shows the transitional phase in pyramid construction. Built for Sneferu, it illustrates the trial-and-error process of creating smooth-sided pyramids."
+    },
+    {
+      "id": 6,
+      "name": "Red Pyramid of Sneferu",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Red%20Pyramid%20of%20Sneferu.jpg",
+      "born_build": "c. 2590 BC, 4th Dynasty",
+      "kings_build": "Pharaoh Sneferu",
+      "description": "The first successful smooth-sided pyramid in Egypt, known for its reddish limestone. Built by Sneferu at Dahshur, it represents the perfected design later used at Giza."
+    },
+    {
+      "id": 7,
+      "name": "Pyramid of Unas",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Pyramid%20of%20Unas.jpg",
+      "born_build": "c. 2350 BC, 5th Dynasty",
+      "kings_build": "Pharaoh Unas",
+      "description": "Though small in size, the Pyramid of Unas is historically important as it contains the first Pyramid Texts — religious inscriptions meant to guide the king in the afterlife."
+    },
+    {
+      "id": 8,
+      "name": "Pyramid of Teti",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Pyramid%20of%20Teti.jpg",
+      "born_build": "c. 2345 BC, 6th Dynasty",
+      "kings_build": "Pharaoh Teti",
+      "description": "Built for Teti, the first ruler of the 6th Dynasty, this pyramid continued the tradition of inscribed Pyramid Texts. Although much of it is ruined, the burial chambers remain accessible."
+    },
+    {
+      "id": 9,
+      "name": "Pyramid of Userkaf",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Pyramid%20of%20Userkaf.jpg",
+      "born_build": "c. 2490 BC, 5th Dynasty",
+      "kings_build": "Pharaoh Userkaf",
+      "description": "Constructed by Userkaf, founder of the 5th Dynasty, this pyramid is located at Saqqara. It reflects the shift in focus from massive pyramid construction to sun temples."
+    },
+    {
+      "id": 10,
+      "name": "Pyramid of Amenemhat III (Black Pyramid)",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Pyramid%20of%20Amenemhat%20III.jpg",
+      "born_build": "c. 1850 BC, 12th Dynasty",
+      "kings_build": "Pharaoh Amenemhat III",
+      "description": "Known as the Black Pyramid due to its dark mudbrick core, it is located at Dahshur. Built by Amenemhat III, one of the greatest kings of the Middle Kingdom, it reflects both ambition and engineering challenges."
+    }
+  ]
 }
