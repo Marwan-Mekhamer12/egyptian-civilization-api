@@ -143,19 +143,19 @@
     "id": 1,
     "name": "Karnak Temple",
     "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Karnak%20Temple.jpg",
-    "time_build": "Started around 2055 BC, expanded until 100 AD",
-    "builder_king": "Senusret I (12th Dynasty), expanded by many Pharaohs",
-    "build_duration": "About 2,000 years (continuous construction)",
-    "main_god": "Amun-Ra"
+    "timebuild": "Started around 2055 BC, expanded until 100 AD",
+    "builderking": "Senusret I (12th Dynasty), expanded by many Pharaohs",
+    "buildduration": "About 2,000 years (continuous construction)",
+    "maingod": "Amun-Ra"
   },
   {
     "id": 2,
     "name": "Luxor Temple",
     "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20Luxor.jpg",
-    "time_build": "Around 1400 BC",
-    "builder_king": "Amenhotep III, completed by Tutankhamun and Ramses II",
-    "build_duration": "Over 100 years",
-    "main_god": "Amun, Mut, and Khonsu (The Theban Triad)"
+    "timebuild": "Around 1400 BC",
+    "builderking": "Amenhotep III, completed by Tutankhamun and Ramses II",
+    "buildduration": "Over 100 years",
+    "maingod": "Amun, Mut, and Khonsu (The Theban Triad)"
   },
   {
     "id": 3,
