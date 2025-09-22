@@ -38,7 +38,7 @@
       },
       "storyLegend": {
         "discovery": "Tomb KV62 found nearly intact in 1922 by Howard Carter.",
-        "curseMyth": "Rumors of 'pharaoh's curse' after Lord Carnarvon’s death, but not supported by evidence.",
+        "curseMyth": "Rumors of 'pharaoh's curse' after Lord Carnarvon's death, but not supported by evidence.",
         "legacy": "His golden mask became a global icon; exhibitions spread fascination worldwide."
       },
       "burial": {
@@ -53,7 +53,7 @@
       "birthName": "Ra-messu Meryamun",
       "dynasty": "19th Dynasty, New Kingdom Egypt",
       "years": "-1279 BC : -1213 BC",
-      "description": "Ramses II, also called Ramses the Great, was one of the most powerful and celebrated pharaohs of ancient Egypt. He expanded Egypt’s empire, signed the world’s first known peace treaty, and left behind monumental constructions.",
+      "description": "Ramses II, also called Ramses the Great, was one of the most powerful and celebrated pharaohs of ancient Egypt. He expanded Egypt's empire, signed the world's first known peace treaty, and left behind monumental constructions.",
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/King%20Ramses%20II.jpg",
       "family": {
         "parents": "Father: Seti I; Mother: Queen Tuya.",
@@ -63,7 +63,7 @@
       "biography": {
         "earlyLife": "Born c. 1303 BCE, prepared from youth to succeed his father Seti I. Received military training and accompanied campaigns as a prince.",
         "ascension": "Became pharaoh around age 25, ruling for 66 years — one of the longest reigns in Egyptian history.",
-        "religionPolitics": "Promoted the cult of Ra and Amun, portrayed himself as divine. Reinforced Egypt’s wealth through diplomacy and military campaigns.",
+        "religionPolitics": "Promoted the cult of Ra and Amun, portrayed himself as divine. Reinforced Egypt's wealth through diplomacy and military campaigns.",
         "buildingProjects": "Constructed massive temples, cities, and monuments: Abu Simbel, Ramesseum, Pi-Ramesses (new capital). His cartouches appear throughout Egypt."
       },
       "military": {
@@ -115,7 +115,7 @@
       "military": {
         "actions": "Led major campaigns into Syria, Canaan, and Libya. Defeated Hittite forces and reasserted Egyptian control over lost territories.",
         "personalInvolvement": "Known as an active warrior-king, often depicted leading troops into battle.",
-        "legacy": "Prepared the way for Ramses II’s later dominance in international affairs."
+        "legacy": "Prepared the way for Ramses II's later dominance in international affairs."
       },
       "healthAndDeath": {
         "healthIssues": [
@@ -127,92 +127,91 @@
         "ageAtDeath": "40"
       },
       "storyLegend": {
-        "fame": "Respected as one of Egypt’s greatest warrior-kings before Ramses II.",
+        "fame": "Respected as one of Egypt's greatest warrior-kings before Ramses II.",
         "discovery": "His mummy was found in the royal cache at Deir el-Bahari (TT320).",
         "legacy": "Best remembered for the Abydos Temple inscriptions, including the King List — crucial for modern Egyptology."
       },
       "burial": {
         "tomb": "KV17 (Valley of the Kings) — one of the longest and most beautifully decorated tombs.",
-        "notes": "The tomb’s wall paintings are remarkably preserved and considered masterpieces of New Kingdom art.",
+        "notes": "The tomb's wall paintings are remarkably preserved and considered masterpieces of New Kingdom art.",
         "burialGoods": "Most treasures were looted in antiquity, but fragments remain."
       }
     }
   ],
   "temples": [
     {
-    "id": 1,
-    "name": "Karnak Temple",
-    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Karnak%20Temple.jpg",
-    "timebuild": "Started around 2055 BC, expanded until 100 AD",
-    "builderking": "Senusret I (12th Dynasty), expanded by many Pharaohs",
-    "buildduration": "About 2,000 years (continuous construction)",
-    "maingod": "Amun-Ra"
-  },
-  {
-    "id": 2,
-    "name": "Luxor Temple",
-    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20Luxor.jpg",
-    "timebuild": "Around 1400 BC",
-    "builderking": "Amenhotep III, completed by Tutankhamun and Ramses II",
-    "buildduration": "Over 100 years",
-    "maingod": "Amun, Mut, and Khonsu (The Theban Triad)"
-  },
-  {
-    "id": 3,
-    "name": "Abu Simbel Temples",
-    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20Abu%20Simble.jpg",
-    "timebuild": "1264 BC – 1244 BC",
-    "builderking": "Ramses II",
-    "buildduration": "About 20 years",
-    "maingod": "Ra-Horakhty, Amun, Ptah (and deified Ramses II)"
-  },
-  {
-    "id": 4,
-    "name": "Temple of Hatshepsut (Deir el-Bahari)",
-    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20hatshipsut.jpg",
-    "timebuild": "1479 BC – 1458 BC",
-    "builderking": "Queen Hatshepsut",
-    "buildduration": "15 years",
-    "maingod": "Amun-Ra"
-  },
-  {
-    "id": 5,
-    "name": "Temple of Edfu",
-    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20edfo.jpg",
-    "timebuild": "237 BC – 57 BC (Ptolemaic period)",
-    "builderking": "Ptolemy III to Ptolemy XII",
-    "buildduration": "180 years",
-    "maingod": "Horus"
-  },
-  {
-    "id": 6,
-    "name": "Temple of Kom Ombo",
-    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20Kom%20ombo.jpg",
-    "timebuild": "180 BC – 47 BC",
-    "builderking": "Ptolemy VI and later rulers",
-    "buildduration": "130 years",
-    "maingod": "Sobek and Horus"
-  },
-  {
-    "id": 7,
-    "name": "Temple of Philae",
-    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Philae%20Temple%20in%20Egypt.jpg",
-    "timebuild": "Started around 380 BC, continued into Roman period",
-    "builderking": "Nectanebo I and later Ptolemaic rulers",
-    "buildduration": "300 years",
-    "maingod": "Isis"
-  },
-  {
-    "id": 8,
-    "name": "Temple of Seti I (Abydos)",
-    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20seti%20I.jpg",
-    "timebuild": "1290 BC – 1279 BC",
-    "builderking": "Seti I, completed by Ramses II",
-    "buildduration": "11 years",
-    "maingod": "Osiris"
+      "id": 1,
+      "name": "Karnak Temple",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Karnak%20Temple.jpg",
+      "timebuild": "Started around 2055 BC, expanded until 100 AD",
+      "builderking": "Senusret I (12th Dynasty), expanded by many Pharaohs",
+      "buildduration": "About 2,000 years (continuous construction)",
+      "maingod": "Amun-Ra"
+    },
+    {
+      "id": 2,
+      "name": "Luxor Temple",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20Luxor.jpg",
+      "timebuild": "Around 1400 BC",
+      "builderking": "Amenhotep III, completed by Tutankhamun and Ramses II",
+      "buildduration": "Over 100 years",
+      "maingod": "Amun, Mut, and Khonsu (The Theban Triad)"
+    },
+    {
+      "id": 3,
+      "name": "Abu Simbel Temples",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20Abu%20Simble.jpg",
+      "timebuild": "1264 BC – 1244 BC",
+      "builderking": "Ramses II",
+      "buildduration": "About 20 years",
+      "maingod": "Ra-Horakhty, Amun, Ptah (and deified Ramses II)"
+    },
+    {
+      "id": 4,
+      "name": "Temple of Hatshepsut (Deir el-Bahari)",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20hatshipsut.jpg",
+      "timebuild": "1479 BC – 1458 BC",
+      "builderking": "Queen Hatshepsut",
+      "buildduration": "15 years",
+      "maingod": "Amun-Ra"
+    },
+    {
+      "id": 5,
+      "name": "Temple of Edfu",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20edfo.jpg",
+      "timebuild": "237 BC – 57 BC (Ptolemaic period)",
+      "builderking": "Ptolemy III to Ptolemy XII",
+      "buildduration": "180 years",
+      "maingod": "Horus"
+    },
+    {
+      "id": 6,
+      "name": "Temple of Kom Ombo",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20Kom%20ombo.jpg",
+      "timebuild": "180 BC – 47 BC",
+      "builderking": "Ptolemy VI and later rulers",
+      "buildduration": "130 years",
+      "maingod": "Sobek and Horus"
+    },
+    {
+      "id": 7,
+      "name": "Temple of Philae",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Philae%20Temple%20in%20Egypt.jpg",
+      "timebuild": "Started around 380 BC, continued into Roman period",
+      "builderking": "Nectanebo I and later Ptolemaic rulers",
+      "buildduration": "300 years",
+      "maingod": "Isis"
+    },
+    {
+      "id": 8,
+      "name": "Temple of Seti I (Abydos)",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Temple%20of%20seti%20I.jpg",
+      "timebuild": "1290 BC – 1279 BC",
+      "builderking": "Seti I, completed by Ramses II",
+      "buildduration": "11 years",
+      "maingod": "Osiris"
     }
   ],
-  {
   "pyramids": [
     {
       "id": 1,
@@ -228,7 +227,7 @@
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Pyramid%20of%20Khafre.jpg",
       "bornbuild": "c. 2570 BC, 4th Dynasty",
       "kingsbuild": "Pharaoh Khafre",
-      "description": "The second largest pyramid at Giza, easily recognized by its limestone casing still visible at the top. It is associated with the Great Sphinx and shows the grandeur of Khufu’s son, Khafre."
+      "description": "The second largest pyramid at Giza, easily recognized by its limestone casing still visible at the top. It is associated with the Great Sphinx and shows the grandeur of Khufu's son, Khafre."
     },
     {
       "id": 3,
@@ -244,7 +243,7 @@
       "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Step%20Pyramid%20of%20Djoser.jpg",
       "bornbuild": "c. 2670 BC, 3rd Dynasty",
       "kingsbuild": "Pharaoh Djoser",
-      "description": "The world’s first large-scale stone construction and the earliest pyramid in Egypt. Designed by the architect Imhotep, it consists of six stacked mastabas forming a step design."
+      "description": "The world's first large-scale stone construction and the earliest pyramid in Egypt. Designed by the architect Imhotep, it consists of six stacked mastabas forming a step design."
     },
     {
       "id": 5,
@@ -294,50 +293,49 @@
       "kingsbuild": "Pharaoh Amenemhat III",
       "description": "Known as the Black Pyramid due to its dark mudbrick core, it is located at Dahshur. Built by Amenemhat III, one of the greatest kings of the Middle Kingdom, it reflects both ambition and engineering challenges."
     }
-  ], 
-  
+  ],
   "valleyOfKings": [
-  {
-    "id": 1,
-    "name": "Amenhotep II",
-    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Amenhotep%20II.jpg",
-    "description": "The tomb of Pharaoh Amenhotep II, located in the Valley of the Kings, is notable for its well-preserved decorations and the presence of multiple royal mummies moved there for protection."
-  },
-  {
-    "id": 2,
-    "name": "Ramses II",
-    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Ramses%20II.jpg",
-    "description": "The tomb of Ramses II, known as KV7, was one of the largest tombs in the Valley of the Kings, though much of it was damaged by flooding in antiquity."
-  },
-  {
-    "id": 3,
-    "name": "Ramses III",
-    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Ramses%20III.jpg",
-    "description": "The tomb of Ramses III (KV11) is among the most beautifully decorated tombs, featuring vivid scenes of the Book of Gates and other funerary texts."
-  },
-  {
-    "id": 4,
-    "name": "Ramses VI",
-    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Ramses%20VI.jpg",
-    "description": "The tomb of Ramses VI (KV9) is one of the most visited in the Valley, known for its detailed astronomical ceiling and preservation of ancient texts."
-  },
-  {
-    "id": 5,
-    "name": "Seti I",
-    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Seti%20I.jpg",
-    "description": "The tomb of Seti I (KV17) is the longest and one of the most elaborately decorated tombs, showcasing exceptional craftsmanship of the 19th Dynasty."
-  },
-  {
-    "id": 6,
-    "name": "Thutmose III",
-    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Thutmose%20III.jpg",
-    "description": "The tomb of Thutmose III (KV34) is notable for its unique structure, with steep stairs and vivid depictions of the Amduat (Book of the Hidden Chamber)."
-  },
-  {
-    "id": 7,
-    "name": "Tutankhamun",
-    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Tutankhamun.jpg",
-    "description": "The tomb of Tutankhamun (KV62) is the most famous discovery in the Valley, found almost intact by Howard Carter in 1922, containing the golden treasures of the boy king."
-  }
-]
+    {
+      "id": 1,
+      "name": "Amenhotep II",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Amenhotep%20II.jpg",
+      "description": "The tomb of Pharaoh Amenhotep II, located in the Valley of the Kings, is notable for its well-preserved decorations and the presence of multiple royal mummies moved there for protection."
+    },
+    {
+      "id": 2,
+      "name": "Ramses II",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Ramses%20II.jpg",
+      "description": "The tomb of Ramses II, known as KV7, was one of the largest tombs in the Valley of the Kings, though much of it was damaged by flooding in antiquity."
+    },
+    {
+      "id": 3,
+      "name": "Ramses III",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Ramses%20III.jpg",
+      "description": "The tomb of Ramses III (KV11) is among the most beautifully decorated tombs, featuring vivid scenes of the Book of Gates and other funerary texts."
+    },
+    {
+      "id": 4,
+      "name": "Ramses VI",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Ramses%20VI.jpg",
+      "description": "The tomb of Ramses VI (KV9) is one of the most visited in the Valley, known for its detailed astronomical ceiling and preservation of ancient texts."
+    },
+    {
+      "id": 5,
+      "name": "Seti I",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Seti%20I.jpg",
+      "description": "The tomb of Seti I (KV17) is the longest and one of the most elaborately decorated tombs, showcasing exceptional craftsmanship of the 19th Dynasty."
+    },
+    {
+      "id": 6,
+      "name": "Thutmose III",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Thutmose%20III.jpg",
+      "description": "The tomb of Thutmose III (KV34) is notable for its unique structure, with steep stairs and vivid depictions of the Amduat (Book of the Hidden Chamber)."
+    },
+    {
+      "id": 7,
+      "name": "Tutankhamun",
+      "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Tutankhamun.jpg",
+      "description": "The tomb of Tutankhamun (KV62) is the most famous discovery in the Valley, found almost intact by Howard Carter in 1922, containing the golden treasures of the boy king."
+    }
+  ]
 }
