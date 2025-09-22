@@ -213,7 +213,7 @@
     }
   ],
   {
-  "Pyramids": [
+  "pyramids": [
     {
       "id": 1,
       "name": "Great Pyramid of Khufu",
@@ -296,7 +296,7 @@
     }
   ], 
   {
-  "Gods": [
+  "gods": [
     {
       "id": 1,
       "name": "Anubis",
@@ -311,5 +311,49 @@
       "description": "Horus was the falcon-headed sky god and protector of the pharaohs. The Eye of Horus symbolized protection, healing, and royal power.",
       "symbol": "The Eye of Horus."
     }
-  ]
+  ], 
+  "valleyOfKings": [
+  {
+    "id": 1,
+    "name": "Amenhotep II",
+    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Amenhotep%20II.jpg",
+    "description": "The tomb of Pharaoh Amenhotep II, located in the Valley of the Kings, is notable for its well-preserved decorations and the presence of multiple royal mummies moved there for protection."
+  },
+  {
+    "id": 2,
+    "name": "Ramses II",
+    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Ramses%20II.jpg",
+    "description": "The tomb of Ramses II, known as KV7, was one of the largest tombs in the Valley of the Kings, though much of it was damaged by flooding in antiquity."
+  },
+  {
+    "id": 3,
+    "name": "Ramses III",
+    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Ramses%20III.jpg",
+    "description": "The tomb of Ramses III (KV11) is among the most beautifully decorated tombs, featuring vivid scenes of the Book of Gates and other funerary texts."
+  },
+  {
+    "id": 4,
+    "name": "Ramses VI",
+    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Ramses%20VI.jpg",
+    "description": "The tomb of Ramses VI (KV9) is one of the most visited in the Valley, known for its detailed astronomical ceiling and preservation of ancient texts."
+  },
+  {
+    "id": 5,
+    "name": "Seti I",
+    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Seti%20I.jpg",
+    "description": "The tomb of Seti I (KV17) is the longest and one of the most elaborately decorated tombs, showcasing exceptional craftsmanship of the 19th Dynasty."
+  },
+  {
+    "id": 6,
+    "name": "Thutmose III",
+    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Thutmose%20III.jpg",
+    "description": "The tomb of Thutmose III (KV34) is notable for its unique structure, with steep stairs and vivid depictions of the Amduat (Book of the Hidden Chamber)."
+  },
+  {
+    "id": 7,
+    "name": "Tutankhamun",
+    "image": "https://marwan-mekhamer12.github.io/egyptian-civilization-api/images/Valley%20of%20Tutankhamun.jpg",
+    "description": "The tomb of Tutankhamun (KV62) is the most famous discovery in the Valley, found almost intact by Howard Carter in 1922, containing the golden treasures of the boy king."
+  }
+]
 }
